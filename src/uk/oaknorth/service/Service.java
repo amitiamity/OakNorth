@@ -26,7 +26,7 @@ public class Service {
 	final static String URI = "https://api.companieshouse.gov.uk/search/officers";
 	final static String AUTH = "Authorization";
 	final static String AUTH_TYPE = "Basic ";
-	final static String CREDS = "63dGXMLQM6LXd58xKat3a64RHhsuY2Sr3AqVmBfW:";
+	final static String CREDS = "";
 	
      public Map<String,List<String>> getOfficersService(String companyName){
 	 
